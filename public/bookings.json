@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"Luxury Paradise Hotel",
+        "section": "Premium",
+        "image":"https://i.ibb.co/nmJVDx5/image.png",
+        "description":"Experience luxury like never before at our 5-star paradise hotel. Enjoy stunning views, top-notch amenities, and impeccable service."
+    },
+    {
+        "id":2,
+        "name":"Cityscape Suites",
+        "section": "Standard",
+        "image":"https://i.ibb.co/Z2sP193/image.png",
+        "description":"Discover comfort and convenience in the heart of the city. Our suites offer a cozy stay with easy access to local attractions."   
+    },
+    {
+        "id":3,
+        "name":"Seaside Retreat Resort",
+        "section": "Deluxe",
+        "image":"https://i.ibb.co/7zmt29T/image.png",
+        "description":"Escape to a seaside paradise where relaxation meets adventure. Our resort offers beachfront accommodations with breathtaking ocean views."   
+    },
+    {
+        "id":4,
+        "name":"Mountain View Lodge",
+        "section": "Economy",
+        "image":"https://i.ibb.co/1dCpypp/image.png",
+        "description":"Experience the tranquility of the mountains at our lodge. Cozy rooms, scenic views, and hiking trails await you."   
+    },
+    {
+        "id":5,
+        "name":"Urban Escape Hotel",
+        "section": "Executive",
+        "image":"https://i.ibb.co/98zL284/image.png",
+        "description":"Immerse yourself in the vibrancy of the city at our urban escape. Modern amenities and a central location make it ideal for business and travelers."   
+    },
+    {
+        "id":6,
+        "name":"Riverside Inn",
+        "section": "Riverside",
+        "image":"https://i.ibb.co/PM23k7g/image.png",
+        "description":"Relax by the river at Riverside Inn. Our charming inn offers a peaceful retreat with riverside views and nature walks."  
+
+    }
+]

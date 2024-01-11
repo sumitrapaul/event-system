@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"Weddings",
+        "image":"https://i.ibb.co/MsMnFgx/pexels-sadman-chowdhury-2058070.jpg",
+        "price":"$5000",
+        "description":"A wedding is a celebration or ceremony of marriage. Besides being a formal way to mark the union of two people, weddings can be a lot of fun too."
+    },
+    {
+        "id":2,
+        "name":"Birthday Parties",
+        "image":"https://i.ibb.co/SnwKGy8/3709.jpg",
+        "price":"$900",
+        "description":"A birthday party is a celebratory event held to mark the anniversary of a persons birth.It is a special occasion where friends and family gather to honor."   
+    },
+    {
+        "id":3,
+        "name":"Anniversaries",
+        "image":"https://i.ibb.co/BBwkCgd/6602.jpg",
+        "price":"$1200",
+        "description":"An anniversary is a date which is remembered or celebrated because a special event happened on that date in a previous year."   
+    },
+    {
+        "id":4,
+        "name":"Engagement Parties",
+        "image":"https://i.ibb.co/z4rPrZ1/groom-putting-ring-bride-s-finger.jpg",
+        "price":"$1500",
+        "description":"An engagement party is a celebration of the proposal, and the first event to kick off your festivities leading up to the wedding day."   
+    },
+    {
+        "id":5,
+        "name":"Retirement Parties",
+        "image":"https://i.ibb.co/6RpjxWX/istockphoto-1200002231-1024x1024.jpg",
+        "price":"$700",
+        "description":"If you or someone you know is retiring, there's cause for celebration. After years of hard work and dedication, a retirement party is a great way to honor your legacy."   
+    },
+    {
+        "id":6,
+        "name":"Baby shower",
+        "image":"https://i.ibb.co/FX0pChW/pexels-henley-design-studio-914253.jpg",
+        "price":"$300",
+        "description":"A baby shower is a party centered on gift-giving to celebrate the delivery or expected birth of a child, and the transformation of a woman into a mother."  
+
+    }
+]
