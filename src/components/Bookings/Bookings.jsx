@@ -10,7 +10,7 @@ AOS.init({
 
 const Bookings = () => {
 
-    const [bookings,setBookings] = useState([])
+    const [bookings,setBookings] = useState([]);
   
 
     useEffect(()=>{
