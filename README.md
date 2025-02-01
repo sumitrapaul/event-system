@@ -1,6 +1,6 @@
 # GatherJoy
 
-Website deploy link [here](https://party-event-87f77.web.app/)
+Deploy link [here](https://party-event-87f77.web.app/)
 
 # Project features and functionalities
 
@@ -12,4 +12,4 @@ Website deploy link [here](https://party-event-87f77.web.app/)
 
 * If he completes the registration,he will see the toast,if the login is correct,he will see the toast.If he wants to log in without registering,he will still see the firebase message toast.
 
-* Then when his registration is complete he can see the details by clicking on the details button and since he has logged in the registration he can also see the gallery and read the blogs.He  will not be able to see service details,gallery,blog without logging in and registering.He can also log in with his email througn google.If the user goes to the wrong page,he will see an error message.You will see the aos effect on those service cards for a short period of time.
+* When the user completes their registration, they can view the details by clicking the "Details" button. Since they are logged in after registration, they will also have access to the gallery and blog posts. However, without logging in and completing the registration, they will not be able to view service details, the gallery, or blogs. Additionally, the user can log in using their email via Google authentication. If they navigate to an incorrect page, an error message will be displayed. The service cards will also feature a short-duration AOS (Animate on Scroll) effect.
